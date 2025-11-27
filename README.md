@@ -23,7 +23,7 @@ Me chamo Luane de Souza Oliveira, tenho 20 anos, sou natural de Pernambuco. Conc
 
 ---
 
-**` 🤖 Linguagens e Tecnologias `**
+**`🤖 Linguagens e Tecnologias`**
 
 <img 
     align="left" 
@@ -45,9 +45,36 @@ Me chamo Luane de Souza Oliveira, tenho 20 anos, sou natural de Pernambuco. Conc
 
 <img 
     align="left" 
-    alt="CSS"
-    title="CSS" 
+    alt="Linux"
+    title="Linux" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
 />
+
+<img 
+    align="left" 
+    alt="Fedora"
+    title="Fedora" 
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg"       
+/>
+
+<img 
+    align="left" 
+    alt="Python"
+    title="Python" 
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"           
+/>
+
+<img 
+    align="left" 
+    alt="GoogleColab"
+    title="GoogleColab" 
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg"     
+/>  

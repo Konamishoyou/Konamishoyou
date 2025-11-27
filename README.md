@@ -1,6 +1,6 @@
 # Luane de Souza
 
-**'Analista de Dados com IA'**
+**`Analista de Dados com IA`**
 
 Me chamo Luane de Souza Oliveira, tenho 20 anos, sou natural de Pernambuco. Conclui o ensino medio em escola integral e apos o termino iniciei um curso tecnico de programacao focado em desenvolvimento web. Atualmente, estou cursando Ciencia da Computacao na UFAPE. Estou sempre me aprofundando em novas áreas, desde desenvolvimento de software até campos emergentes como IA e segurança cibernética. Meu objetivo é aprimorar minhas habilidades através de projetos práticos e contribuir com soluções inovadoras na área de tecnologia.
 
@@ -23,7 +23,7 @@ Me chamo Luane de Souza Oliveira, tenho 20 anos, sou natural de Pernambuco. Conc
 
 ---
 
-*** 🤖 Linguagens e Tecnologias ***
+***` 🤖 Linguagens e Tecnologias `***
 
 <img 
     align="left" 

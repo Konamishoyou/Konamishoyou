@@ -23,7 +23,7 @@ Me chamo Luane de Souza Oliveira, tenho 20 anos, sou natural de Pernambuco. Conc
 
 ---
 
-##`🤖 Linguagens e Tecnologias`##
+## 🤖 Linguagens e Tecnologias 
 
 <img 
     align="left" 
